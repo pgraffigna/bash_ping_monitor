@@ -1,0 +1,3 @@
+grep 'ping_average_response_ms' isp-monitoring_rev1.json
+grep 'ping_percent_packet_loss' isp-monitoring_rev1.json
+grep 'ping_minimum_response_ms' isp-monitoring_rev1.json
